@@ -1,0 +1,7 @@
+Category: beepmedia
+Repository: beepmedia/mcp/mcp-dev/mcp-playwright
+Full path: /Users/andreihasna/Dev/beepmedia/mcp/mcp-dev/mcp-playwright
+
+  • Has uncommitted changes
+Push successful: false
+---
